@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @ChrizLK
-- 👀 I’m interested in ASP.NET MVC , C# , SQL , JavaScript , Restful Services
-- 🌱 I’m currently learning Node.js , Laravel
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me krishankankanamge@gmail.com - 
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @ChrizLK 
+- 👀 I’m interested in C# ,ASP.NET , SQL , JavaScript , Restful Services 
+- 🌱 I’m currently learning Node.js , Laravel , JAVA , MAUI , Microservices , Blazor , NOSQL
+- 💞️ I’m looking for an SE Internship
+- 📫 How to reach me krishankankanamge@gmail.com
+- https://www.linkedin.com/in/chrishan-kankanamge/
+- ⚡ Fun fact : Eventhough If No one hires me, imma Keep Developing Applications 🤣💯
 
-<!---
-ChrizLK/ChrizLK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
